@@ -23,5 +23,5 @@ def using_size(array)
 end
 def using_include (array, element)
   array.include?(element)
-  
+  using_include
 end  
